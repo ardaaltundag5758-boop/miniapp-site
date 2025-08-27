@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mini App</title>
+</head>
+<body style="text-align:center; font-family:sans-serif;">
+  <h1>Merhaba!</h1>
+  <p>Telegram Mini App sitem hazır 🎉</p>
+  <a href="https://t.me/username_bot" target="_blank">Botu Başlat</a>
+</body>
+</html>
